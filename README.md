@@ -1,4 +1,5 @@
 # suitcss-rails
+[![Gem Version](https://badge.fury.io/rb/suitcss-rails.svg)](https://badge.fury.io/rb/suitcss-rails)
 
 Style tools for UI components.
 
